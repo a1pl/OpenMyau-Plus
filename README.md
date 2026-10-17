@@ -23,7 +23,7 @@ has compact switches, animated hover and category selection, smooth scrolling,
 and opening/closing transitions. Module rows explain what each module does; the
 settings panel shows its description above the controls.
 
-- Left-click a module row to toggle it, or its three-dot button to show settings.
+- Click a module row to toggle it, or its three-dot button to show settings.
 - Search by module name or description. Escape leaves search; a second Escape closes the GUI.
 - Left/right-click a mode value to cycle forward/backward.
 - Middle-click a module or click **Keybind** to assign a key. Delete/Backspace clears it.
